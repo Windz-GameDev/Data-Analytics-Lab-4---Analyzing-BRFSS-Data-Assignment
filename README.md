@@ -1,5 +1,9 @@
 # Data-Analytics-Lab-4---Analyzing-BRFSS-Data-Assignment
 
+Intro: 
+
+This is my lab 4 assignment for the CAP4784 Introduction to Data Analytics Class at UNF. 
+
 Project Description:
 
 In this program, I analyzed BRFSS weight vs. height data from a CSV file. The data has five attributes:
