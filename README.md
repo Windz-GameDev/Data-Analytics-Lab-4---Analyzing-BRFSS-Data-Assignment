@@ -4,15 +4,15 @@
 
 Intro: 
 
-This is my lab 4 assignment for the CAP4784 Introduction to Data Analytics Class at UNF. 
+This is my lab 4 assignment for the CAP4784 Introduction to Data Analytics Class at UNF. Overall, this lab was a very enjoyable challenge and helped me learn to use the NumPy Python library. I hope this project in the future will aid others in their NumPy and Data Analysis journey. If anyone has any questions or concerns, please let me know! I am always eager to learn and assist others.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Project Description:
 
-In this program, I analyzed BRFSS weight vs. height data from a CSV file. The data has five attributes:
+In this program, we analyzed BRFSS weight vs. height data from a CSV file. The data has five attributes:
 age, current_weight (lbs), weight_a_year_ago (lbs), height (inches), and gender, where gender == 1 represents male
-and 2 represents female. It also serves as an example of how to perform data analysis using NumPy in Python.
+and 2 represents female. We also dived into Data Analysis with NumPy, converting data from a CSV into a NumPy array, and use that NumPy array to calculate things like mean, median, standard deviation, and interquartile range for a column. We also splice, and concatenate two dimensional arrays. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -81,3 +81,5 @@ Resources Used:
 - https://numpy.org/doc/stable/reference/generated/numpy.concatenate.html
 
 - http://www.cdc.gov/brfss // Contains a complete description of the survey data (CSV that was used)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
