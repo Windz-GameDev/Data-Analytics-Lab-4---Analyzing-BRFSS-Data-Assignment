@@ -81,10 +81,10 @@ try:
 
     # Calculate the descriptive statistics data variables regarding the weight
 
-    my_mean = np.mean(gender_array[:, 6])
-    my_median = np.median(gender_array[:, 6])
-    my_standard_deviation = np.std(gender_array[:, 6])
-    my_interquartile_range = np.percentile(gender_array[:, 6], 75) - np.percentile(gender_array[:, 6], 25)
+    my_mean = np.mean(gender_array)
+    my_median = np.median(gender_array)
+    my_standard_deviation = np.std(gender_array)
+    my_interquartile_range = np.percentile(gender_array, 75) - np.percentile(gender_array, 25)
 
     print("\n")
 
